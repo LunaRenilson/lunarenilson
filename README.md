@@ -11,6 +11,7 @@
 **I worked and acquired experience in the following areas**
 - Image Processing
 - Machine Learning models
+- Data analysis and processing
 - Web Scraping
 - Frontend and Backend development
 
