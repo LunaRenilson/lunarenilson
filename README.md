@@ -9,11 +9,12 @@
 
 ## Experiences
 **I worked and acquired experience in the following areas**
-- Image Processing
-- Machine Learning models
+
+- Machine-Learning models
 - Data analysis and processing
-- Web Scraping
 - Frontend and Backend development
+- Image Processing
+- Web Scraping
 
 ## 
 ![Renilson Tools Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lunarenilson&theme=dracula)
